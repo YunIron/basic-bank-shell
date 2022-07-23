@@ -16,7 +16,8 @@
 
 </div>
 
-
+<h1>Gereksinimler</h1>
+<li>Linux veya shell çalıştıralabilecek bir platform</li>
 <h1>Kullanim</h1>
 
 ```
