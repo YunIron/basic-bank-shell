@@ -12,6 +12,7 @@
 <h1>Kullanim</h1>
 
 ```
+cd BankaBasicShell
 bash banka.sh
 ```
 
