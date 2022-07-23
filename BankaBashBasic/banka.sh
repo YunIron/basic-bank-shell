@@ -116,7 +116,6 @@ giris(){
 }
 
 data
-clear
 giris
 
 
