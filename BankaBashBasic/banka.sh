@@ -80,7 +80,7 @@ parayatir(){
 paracek(){
     echo -e "Tutar: \c"
     read tutar
-    if [[ $bakiye -gt $tutar ]]
+    if [[ $bakiye -gt $tutar ]] || [[ $bakiye -eq $tutar ]]
     then
         yenibakiye=$(( bakiye-tutar ))
         sed -i "s/$bakiye/$yenibakiye/g" data.sh
