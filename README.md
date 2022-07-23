@@ -10,7 +10,8 @@
 
 
 <h1>Kullanim</h1>
-```cmd
+
+```
 bash banka.sh
 ```
 
